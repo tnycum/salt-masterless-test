@@ -1,3 +1,3 @@
-httpd:
+vim:
   pkg:
     - installed
