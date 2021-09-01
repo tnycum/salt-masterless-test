@@ -1,3 +1,3 @@
 dev:
   '*':
-    - vim
+    - secret
